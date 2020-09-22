@@ -13,6 +13,7 @@
 			<Title
 				text="{ContactName}"
 				level="H2"/>
+				<Text text = 'GitDemo'></Text>
 		</semantic:titleHeading>
 		<semantic:headerContent>
 			<ObjectAttribute title="{i18n>priceTitle}"/>
