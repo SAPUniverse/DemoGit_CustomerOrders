@@ -14,6 +14,10 @@
 				text="{ContactName}"
 				level="H2"/>
 				<Text text = 'GitDemo'></Text>
+<<<<<<< HEAD
+				<Text text = 'Git Demo From Other'></Text>
+=======
+>>>>>>> refs/heads/master
 		</semantic:titleHeading>
 		<semantic:headerContent>
 			<ObjectAttribute title="{i18n>priceTitle}"/>
